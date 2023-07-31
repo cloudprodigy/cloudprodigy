@@ -4,6 +4,6 @@
 <a href="https://www.youtube.com/channel/UCOhUgOA1IQ36cNLnvtBACNA" rel="nofollow"><img src="https://camo.githubusercontent.com/d79c5549652f9c7690992eb49571d216a70a480681561cbd93bfbfc77c491e54/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f596f75547562652d4646303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d796f7574756265266c6f676f436f6c6f723d7768697465" alt="Balkaran Brar YouTube" data-canonical-src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&amp;logo=youtube&amp;logoColor=white" style="max-width: 100%;"></a>
 
 I'm an avid Cloud Architect, DevOps Engineer and founder of <a href="https://cloudprodigy.ca">Cloud Prodigy</a> <br>
-I'm also a Blockchain Enthusiast and Online Trainer on <a href="https://www.udemy.com/user/nixlinux/">Udemy</a>
+I'm also an ML Enthusiast and Online Trainer on <a href="https://www.udemy.com/user/nixlinux/">Udemy</a>
 
-I'm here to help customers in their Cloud/DevOps/Blockchain adoption journey.
+I'm here to help customers in their Cloud/DevOps/ML/AI adoption journey.
